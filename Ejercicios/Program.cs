@@ -1,0 +1,17 @@
+﻿using Ejercicios;
+Console.WriteLine("#######################################");
+Console.WriteLine("\t");
+Matrices matrices = new Matrices();
+matrices.Bidimensional3x3();
+Console.WriteLine("\t");
+Console.WriteLine("#######################################");
+Console.WriteLine("\t");
+matrices.Bidimensional2x2();
+Console.WriteLine("\t");
+Console.WriteLine("#######################################");
+Console.WriteLine("\t");
+matrices.Bidimensional4x3();
+Console.WriteLine("\t");
+Console.WriteLine("#######################################");
+Console.WriteLine("\t");
+matrices.Bidimensional2x4();
